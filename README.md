@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="Mohammed's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohammedis271&show_icons=true&hide_border=true" />
+<img align="left" alt="Mohammed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammedis271&count_private=true" />
 
 [website]: https://mohammed-ismail.co.za
 [twitter]: https://twitter.com/mohammedis271
