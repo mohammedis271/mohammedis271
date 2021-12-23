@@ -39,6 +39,9 @@
 ---
 
 <img align="left" alt="Mohammed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammedis271&count_private=true" />
+<img align="left" alt="Mohammed's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedis271" />
+
+
 
 [website]: https://mohammed-ismail.co.za
 [twitter]: https://twitter.com/mohammedis271
