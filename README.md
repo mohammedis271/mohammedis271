@@ -3,7 +3,7 @@
 
 ## I love to learn by building projects 😅
 - 🔭 I’m currently working on automating my entire house
-- 🥅 2021 Goals: Automate my house
+- 🥅 2022 Goals: Automate my house
 
 
 
